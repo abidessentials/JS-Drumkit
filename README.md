@@ -5,3 +5,6 @@ Part of Javascript30 from Wes Bos.
 
 
 * Changed the background image. Credit: twitter @iwamoto_05
+
+
+Live preview: https://beatsgobrrrr.netlify.app/
